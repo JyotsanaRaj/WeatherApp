@@ -1,0 +1,12 @@
+.InfoBox {
+    text-align: center; /* Center align text content */
+    position: relative;
+    left:60px;
+    top:150px;
+  }
+  
+  
+  .cardContainer {
+    display: flex; /* Use flexbox for layout */
+    justify-content: center;
+  }
